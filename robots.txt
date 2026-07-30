@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jianming-property.netlify.app/sitemap.xml
+Sitemap: https://magicalken.github.io/sitemap.xml
